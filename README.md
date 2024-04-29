@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" style="overflow: hidden; height: 60%; margin: 0 auto;">
     <p>
         <img src="./giphy.gif" alt="Descriptive Text for the GIF" />
     </p>
