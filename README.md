@@ -1,7 +1,7 @@
 
 <div align="center">
     <p>
-        <img src="https://giphy.com/clips/pixel-green-8bit-iqU07uixfQCjzr9aEd" alt="Descriptive Text for the GIF" />
+        <img src="./giphy.gif" alt="Descriptive Text for the GIF" />
     </p>
 </div>
 
