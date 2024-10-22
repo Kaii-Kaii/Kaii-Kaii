@@ -1,7 +1,7 @@
 
 <div align="center" style="overflow: hidden; height: 60%; margin: 0 auto;">
     <p>
-        <img src="./giphy.gif" alt="Descriptive Text for the GIF" />
+        <img src="[./giphy.gif" alt="Descriptive Text for the GIF](https://i.pinimg.com/originals/0c/43/a4/0c43a412de626bf491fbfb63658e0f16.gif)" />
     </p>
 </div>
 
